@@ -1,0 +1,12 @@
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\challenges\week_1_Thursday_challenge_Nov_12\obj\Debug\week_1_Thursday_challenge_Nov_12.csprojAssemblyReference.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\challenges\week_1_Thursday_challenge_Nov_12\obj\Debug\week_1_Thursday_challenge_Nov_12.csproj.CoreCompileInputs.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\challenges\week_1_Thursday_challenge_Nov_12\bin\Debug\week_1_Thursday_challenge_Nov_12.exe.config
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\challenges\week_1_Thursday_challenge_Nov_12\bin\Debug\week_1_Thursday_challenge_Nov_12.exe
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\challenges\week_1_Thursday_challenge_Nov_12\bin\Debug\week_1_Thursday_challenge_Nov_12.pdb
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\challenges\week_1_Thursday_challenge_Nov_12\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\challenges\week_1_Thursday_challenge_Nov_12\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\challenges\week_1_Thursday_challenge_Nov_12\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\challenges\week_1_Thursday_challenge_Nov_12\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\challenges\week_1_Thursday_challenge_Nov_12\obj\Debug\week_1_Thursday_challenge_Nov_12.csproj.CopyComplete
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\challenges\week_1_Thursday_challenge_Nov_12\obj\Debug\week_1_Thursday_challenge_Nov_12.exe
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\challenges\week_1_Thursday_challenge_Nov_12\obj\Debug\week_1_Thursday_challenge_Nov_12.pdb
