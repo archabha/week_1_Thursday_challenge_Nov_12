@@ -1,0 +1,4 @@
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\eweek1challenges.unitTest1\eweek1challenges.unitTest1\obj\Debug\netcoreapp3.1\eweek1challenges.unitTest1.csprojAssemblyReference.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\eweek1challenges.unitTest1\eweek1challenges.unitTest1\obj\Debug\netcoreapp3.1\eweek1challenges.unitTest1.AssemblyInfoInputs.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\eweek1challenges.unitTest1\eweek1challenges.unitTest1\obj\Debug\netcoreapp3.1\eweek1challenges.unitTest1.AssemblyInfo.cs
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\eweek1challenges.unitTest1\eweek1challenges.unitTest1\obj\Debug\netcoreapp3.1\eweek1challenges.unitTest1.csproj.CoreCompileInputs.cache
