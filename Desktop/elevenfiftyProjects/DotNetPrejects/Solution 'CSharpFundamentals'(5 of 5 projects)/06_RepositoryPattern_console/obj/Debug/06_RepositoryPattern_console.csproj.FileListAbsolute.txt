@@ -1,0 +1,7 @@
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_console\bin\Debug\06_RepositoryPattern_console.exe.config
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_console\bin\Debug\06_RepositoryPattern_console.exe
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_console\bin\Debug\06_RepositoryPattern_console.pdb
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_console\obj\Debug\06_RepositoryPattern_console.csprojAssemblyReference.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_console\obj\Debug\06_RepositoryPattern_console.csproj.CoreCompileInputs.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_console\obj\Debug\06_RepositoryPattern_console.exe
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_console\obj\Debug\06_RepositoryPattern_console.pdb

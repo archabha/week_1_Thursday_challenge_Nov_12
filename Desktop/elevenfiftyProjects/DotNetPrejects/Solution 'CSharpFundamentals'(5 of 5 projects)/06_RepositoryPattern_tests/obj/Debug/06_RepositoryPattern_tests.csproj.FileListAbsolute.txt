@@ -1,0 +1,14 @@
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\bin\Debug\06_RepositoryPattern_tests.dll
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\bin\Debug\06_RepositoryPattern_tests.pdb
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\obj\Debug\06_RepositoryPattern_tests.csprojAssemblyReference.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\obj\Debug\06_RepositoryPattern_tests.csproj.CoreCompileInputs.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\obj\Debug\06_RepositoryPattern_tests.csproj.CopyComplete
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\obj\Debug\06_RepositoryPattern_tests.dll
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_tests\obj\Debug\06_RepositoryPattern_tests.pdb

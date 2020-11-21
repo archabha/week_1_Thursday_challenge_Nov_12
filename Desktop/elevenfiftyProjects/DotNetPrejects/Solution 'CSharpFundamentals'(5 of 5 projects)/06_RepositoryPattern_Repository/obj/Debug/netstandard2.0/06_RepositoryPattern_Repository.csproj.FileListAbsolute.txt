@@ -1,0 +1,9 @@
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_Repository\bin\Debug\netstandard2.0\06_RepositoryPattern_Repository.deps.json
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_Repository\bin\Debug\netstandard2.0\06_RepositoryPattern_Repository.dll
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_Repository\bin\Debug\netstandard2.0\06_RepositoryPattern_Repository.pdb
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_Repository\obj\Debug\netstandard2.0\06_RepositoryPattern_Repository.csprojAssemblyReference.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_Repository\obj\Debug\netstandard2.0\06_RepositoryPattern_Repository.AssemblyInfoInputs.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_Repository\obj\Debug\netstandard2.0\06_RepositoryPattern_Repository.AssemblyInfo.cs
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_Repository\obj\Debug\netstandard2.0\06_RepositoryPattern_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_Repository\obj\Debug\netstandard2.0\06_RepositoryPattern_Repository.dll
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\Solution 'CSharpFundamentals'(5 of 5 projects)\06_RepositoryPattern_Repository\obj\Debug\netstandard2.0\06_RepositoryPattern_Repository.pdb
