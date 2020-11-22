@@ -1,0 +1,7 @@
+C:\Users\ctazg\source\repos\week_2challenges\week_2challenges\obj\Debug\week_2challenges.csprojAssemblyReference.cache
+C:\Users\ctazg\source\repos\week_2challenges\week_2challenges\obj\Debug\week_2challenges.csproj.CoreCompileInputs.cache
+C:\Users\ctazg\source\repos\week_2challenges\week_2challenges\bin\Debug\week_2challenges.exe.config
+C:\Users\ctazg\source\repos\week_2challenges\week_2challenges\bin\Debug\week_2challenges.exe
+C:\Users\ctazg\source\repos\week_2challenges\week_2challenges\bin\Debug\week_2challenges.pdb
+C:\Users\ctazg\source\repos\week_2challenges\week_2challenges\obj\Debug\week_2challenges.exe
+C:\Users\ctazg\source\repos\week_2challenges\week_2challenges\obj\Debug\week_2challenges.pdb
