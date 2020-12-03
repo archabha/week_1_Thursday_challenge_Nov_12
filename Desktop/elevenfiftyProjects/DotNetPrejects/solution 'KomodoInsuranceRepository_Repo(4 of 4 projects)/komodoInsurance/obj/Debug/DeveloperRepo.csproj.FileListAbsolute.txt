@@ -1,0 +1,7 @@
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\solution 'KomodoInsuranceRepository_Repo(4 of 4 projects)\komodoInsurance\bin\Debug\komodoInsurance.exe.config
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\solution 'KomodoInsuranceRepository_Repo(4 of 4 projects)\komodoInsurance\bin\Debug\komodoInsurance.exe
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\solution 'KomodoInsuranceRepository_Repo(4 of 4 projects)\komodoInsurance\bin\Debug\komodoInsurance.pdb
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\solution 'KomodoInsuranceRepository_Repo(4 of 4 projects)\komodoInsurance\obj\Debug\DeveloperRepo.csprojAssemblyReference.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\solution 'KomodoInsuranceRepository_Repo(4 of 4 projects)\komodoInsurance\obj\Debug\DeveloperRepo.csproj.CoreCompileInputs.cache
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\solution 'KomodoInsuranceRepository_Repo(4 of 4 projects)\komodoInsurance\obj\Debug\komodoInsurance.exe
+C:\Users\ctazg\Desktop\elevenfiftyProjects\DotNetPrejects\solution 'KomodoInsuranceRepository_Repo(4 of 4 projects)\komodoInsurance\obj\Debug\komodoInsurance.pdb
