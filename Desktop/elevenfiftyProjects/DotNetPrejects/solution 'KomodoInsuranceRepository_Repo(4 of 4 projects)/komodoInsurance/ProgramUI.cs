@@ -20,7 +20,7 @@ namespace komodoInsurance
                 // Display the options to the user
                 Console.WriteLine("select a menu option:\n" +
                     "1. creat new Team\n" +
-                    "2. view all Team\n"_ +
+                    "2. view all Team\n" +
                     "3. view Team by Title\n" +
                     "4. update Existing Team\n" +
                     "5. Delate Existing Team\n" +
@@ -66,12 +66,10 @@ namespace komodoInsurance
         private void CreatNewTeam()
         {
             DeveloperRepo newTeam = new DeveloperRepo();
-            //Title
-            Console Writeline("Enter the title for the Team:");
-            NewTeam Title = Console Readline();
+           
             // Description
-            Console WriteLine("Enter the description for the Team:");
-            newTeam Description = Console ReadLine();
+            Console.WriteLine("Enter the description for the Team:");
+            
             //Maturity Rating
 
             //Star Rating

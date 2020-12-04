@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CreatNewTeam.cs" />
     <Compile Include="Developer.cs" />
     <Compile Include="DeveloperRepo.cs" />
     <Compile Include="NewTeam.cs" />
