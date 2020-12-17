@@ -1,0 +1,7 @@
+C:\Users\ctazg\source\repos\solution 'GoldBadgeConsoleApplicationChallenge'(12 of 12 projects\bin\Debug\solution 'GoldBadgeConsoleApplicationChallenge'(12 of 12 projects.exe.config
+C:\Users\ctazg\source\repos\solution 'GoldBadgeConsoleApplicationChallenge'(12 of 12 projects\bin\Debug\solution 'GoldBadgeConsoleApplicationChallenge'(12 of 12 projects.exe
+C:\Users\ctazg\source\repos\solution 'GoldBadgeConsoleApplicationChallenge'(12 of 12 projects\bin\Debug\solution 'GoldBadgeConsoleApplicationChallenge'(12 of 12 projects.pdb
+C:\Users\ctazg\source\repos\solution 'GoldBadgeConsoleApplicationChallenge'(12 of 12 projects\obj\Debug\chalenge_1_console.csprojAssemblyReference.cache
+C:\Users\ctazg\source\repos\solution 'GoldBadgeConsoleApplicationChallenge'(12 of 12 projects\obj\Debug\chalenge_1_console.csproj.CoreCompileInputs.cache
+C:\Users\ctazg\source\repos\solution 'GoldBadgeConsoleApplicationChallenge'(12 of 12 projects\obj\Debug\solution 'GoldBadgeConsoleApplicationChallenge'(12 of 12 projects.exe
+C:\Users\ctazg\source\repos\solution 'GoldBadgeConsoleApplicationChallenge'(12 of 12 projects\obj\Debug\solution 'GoldBadgeConsoleApplicationChallenge'(12 of 12 projects.pdb
