@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MenuItemRepo_menuItemRepo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="programUI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

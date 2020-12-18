@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chalenge_4_Repository", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chalenge_4_Tests", "..\chalenge_4_Tests\chalenge_4_Tests.csproj", "{69296982-FC6D-4520-B8F4-3A19ABC97C08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "claims", "..\claims\claims.csproj", "{46D1CF8D-4835-4496-A0B5-9647E1726C8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{69296982-FC6D-4520-B8F4-3A19ABC97C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69296982-FC6D-4520-B8F4-3A19ABC97C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69296982-FC6D-4520-B8F4-3A19ABC97C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D1CF8D-4835-4496-A0B5-9647E1726C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D1CF8D-4835-4496-A0B5-9647E1726C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D1CF8D-4835-4496-A0B5-9647E1726C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D1CF8D-4835-4496-A0B5-9647E1726C8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
